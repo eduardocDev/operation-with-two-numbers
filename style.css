@@ -1,0 +1,22 @@
+body{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-decoration: underline;
+}
+input{
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+button{
+    padding: 1em;
+    margin: 0 auto;
+    background-color: darkcyan;
+}
+button:hover{
+    background-color: indigo;
+    cursor: pointer;
+}
